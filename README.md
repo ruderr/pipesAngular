@@ -1,4 +1,6 @@
-# PipeDemo
+# Uso de los Pipes en Angular
+
+## Ejercicio para ejemplificar el uso de los diferentes tipos de Pipes en Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
 
